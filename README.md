@@ -6,6 +6,6 @@ Through the project, the student will learn
   2. how to create a java library, folder configuration, and call that library within jsp file
 
 To test the webapp:
-  1. download, unzip and copy and paste the folder "sktcoling" in the weapps folder in your Appacher server folder.
+  1. download this project, unzip and copy and paste the folder "sktcoling" in the weapps folder in your Appacher server folder.
   2. start Apache server
   3. open a browser and request the URL : http://localhost:8080/sktcoling/index.jsp
